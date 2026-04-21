@@ -3,7 +3,6 @@ const popunderLinks = [
 "https://s.shopee.co.id/8pgDoG6d2Q",
 "https://s.shopee.co.id/8KjxE4gfar",
 "https://s.shopee.co.id/7fUGQ9f83b",
-"https://muvibox.netlify.app/",
 "https://s.shopee.co.id/W1OtbN6qW"
         ];
 
