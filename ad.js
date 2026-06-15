@@ -1,9 +1,8 @@
 const popunderLinks = [
-"https://s.shopee.co.id/60OLpWYeu7",
-"https://s.shopee.co.id/BQYsjbrFb",
-"https://s.shopee.co.id/1qYmrj59K7",
-"https://s.shopee.co.id/9UyDzkdmjR",
-"https://s.shopee.co.id/7ppzjesrY6"
+"https://s.shopee.co.id/110ZmoySIu",
+"https://s.shopee.co.id/8fQ0v0D2BA",
+"https://s.shopee.co.id/2g8nm6AiKl",
+"https://s.shopee.co.id/W4JC41Xo2"
         ];
 
         function openRandomPopunder() {
